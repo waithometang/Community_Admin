@@ -1,0 +1,65 @@
+{
+  "id": "1857966",
+  "name": "it社区",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "325843",
+      "name": "fenxaing",
+      "font_class": "fenxaing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1159374",
+      "name": "点赞",
+      "font_class": "zan",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "4954251",
+      "name": "wen-zhang",
+      "font_class": "wen-zhang",
+      "unicode": "ea2b",
+      "unicode_decimal": 59947
+    },
+    {
+      "icon_id": "6649255",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10266700",
+      "name": "用户名",
+      "font_class": "guojicopy",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "11989139",
+      "name": "tiezi",
+      "font_class": "tiezi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12553825",
+      "name": "shoucang",
+      "font_class": "shoucang",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "13772516",
+      "name": "shoucang",
+      "font_class": "icon-shoucang2",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
